@@ -1,3 +1,12 @@
+# !! Please use [ruff](https://docs.astral.sh/ruff/) for all you Python formatting needs !!
+
+> https://docs.astral.sh/ruff
+
+thanks! :)
+
+
+archiving this now.
+
 # brunette
 
 🟤 A best practice Python code formatter
